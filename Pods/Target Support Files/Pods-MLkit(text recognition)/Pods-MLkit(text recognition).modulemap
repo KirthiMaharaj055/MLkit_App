@@ -1,0 +1,6 @@
+framework module Pods_MLkit_text_recognition_ {
+  umbrella header "Pods-MLkit(text recognition)-umbrella.h"
+
+  export *
+  module * { export * }
+}

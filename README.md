@@ -1,2 +1,2 @@
-# MLkit_App
-text recognition
+# TextRecognitionApp
+Recognize text in images with ML Kit
